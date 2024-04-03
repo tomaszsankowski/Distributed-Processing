@@ -1,0 +1,3 @@
+C:/Users/Tomasz/Desktop/lab4 - Windows processes and threads/cmake-build-debug/CMakeFiles/lab4___Windows_processes_and_threads.dir
+C:/Users/Tomasz/Desktop/lab4 - Windows processes and threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tomasz/Desktop/lab4 - Windows processes and threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
