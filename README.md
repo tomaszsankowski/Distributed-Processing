@@ -1,2 +1,2 @@
 # Distributed-Processing
-Distributed Processing course from 4th semester of Computer Science.
+Distributed Processing course with C and Java programs implementing multi thread applications and more.
