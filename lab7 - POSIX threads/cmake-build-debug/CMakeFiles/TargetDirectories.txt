@@ -1,0 +1,3 @@
+/home/tomasz/Pulpit/Przetwarzanie Rozproszone/lab7 - POSIX threads/cmake-build-debug/CMakeFiles/lab7___POSIX_threads.dir
+/home/tomasz/Pulpit/Przetwarzanie Rozproszone/lab7 - POSIX threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomasz/Pulpit/Przetwarzanie Rozproszone/lab7 - POSIX threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir

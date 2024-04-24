@@ -1,0 +1,7 @@
+# ninja log v5
+32	49	1713948145510387861	lab7___POSIX_threads	a8bbc5e73ba85d45
+1	32	1713948145494387976	CMakeFiles/lab7___POSIX_threads.dir/main.c.o	221f791bf98e4709
+2	66	1713948211173910560	CMakeFiles/lab7___POSIX_threads.dir/main.c.o	b22950671df7ccab
+66	100	1713948211209910295	lab7___POSIX_threads	a8bbc5e73ba85d45
+1	48	1713948249225627992	CMakeFiles/lab7___POSIX_threads.dir/main.c.o	b22950671df7ccab
+48	71	1713948249261627722	lab7___POSIX_threads	a8bbc5e73ba85d45
