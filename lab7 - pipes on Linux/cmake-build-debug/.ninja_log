@@ -1,0 +1,6 @@
+# ninja log v5
+3	34	1715115334186068086	CMakeFiles/lab7___pipes_on_Linux.dir/main.c.o	20a9b5f468b6ea20
+34	58	1715115334210068426	lab7___pipes_on_Linux	19bfe084b74c8696
+1	25	1715117438316478968	CMakeFiles/lab7___pipes_on_Linux.dir/fifo.c.o	67a694ec70cd20a1
+1	25	1715117438316478968	CMakeFiles/lab7___pipes_on_Linux.dir/fifo1.c.o	e028a9b134e56a7e
+1	28	1715117438316478968	CMakeFiles/lab7___pipes_on_Linux.dir/semaphore_with_pipe.c.o	5f8d0be59e38485c

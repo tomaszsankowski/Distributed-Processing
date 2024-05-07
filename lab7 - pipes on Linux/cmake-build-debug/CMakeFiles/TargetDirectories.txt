@@ -1,0 +1,3 @@
+/home/tomasz/Pulpit/Przetwarzanie Rozproszone/lab7 - pipes on Linux/cmake-build-debug/CMakeFiles/lab7___pipes_on_Linux.dir
+/home/tomasz/Pulpit/Przetwarzanie Rozproszone/lab7 - pipes on Linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomasz/Pulpit/Przetwarzanie Rozproszone/lab7 - pipes on Linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
